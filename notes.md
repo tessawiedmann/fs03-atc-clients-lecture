@@ -18,3 +18,5 @@
 - JavaScript Object Notation
 - Most widely used data structure to send information over the internet
 - Serializing and parsing
+
+Added notes for Tessa
