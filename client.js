@@ -5,7 +5,6 @@ const axios = require('axios');
 const hello = () => {
     console.log('hello world');
 }
-const hi = 'hi there!';
 
 // getGoogle uses Axios to make a GET request for google.com
 // Don't forget the async and await keywords
